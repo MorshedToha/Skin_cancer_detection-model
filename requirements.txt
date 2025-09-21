@@ -1,0 +1,12 @@
+python>=3.8
+torch>=2.0
+torchvision>=0.15
+pillow
+numpy
+pandas
+scikit-learn
+tqdm
+opencv-python
+streamlit
+ultralytics  # optional, if you use YOLOv8
+albumentations
